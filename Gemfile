@@ -10,7 +10,8 @@ gem 'sprockets-rails', '2.3.3'
 gem 'coffee-script-source', '1.8.0'
 #***********************************************
 # Gems Added After Application Creation - END
-
+gem 'pg'
+gem 'rails_12factor', group: :production
 # Bundle edge Rails instead: gem 'rails', github: 'rails/rails'
 gem 'rails', '4.2.6'
 # Use SCSS for stylesheets
