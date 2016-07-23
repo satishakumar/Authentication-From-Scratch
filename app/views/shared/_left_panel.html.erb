@@ -1,0 +1,11 @@
+<!-- _left_panel.html.erb -->
+<%if current_user%>
+<ul class="nav nav-sidebar">
+	<li class="active">
+		<%=link_to "Home", root_path%>
+	</li>
+	<li>
+		<%#=link_to "Your Activities", {:controller => "assessments", :action => "your_activities"}, {:remote => true}%>
+	</li>
+</ul>
+<%end%>
