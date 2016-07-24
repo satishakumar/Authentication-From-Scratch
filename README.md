@@ -15,3 +15,4 @@ The different features include are
 2. Password encryption.
 3. Home page with bootstrap CSS and can be reused or custumized to own application as per requirement.
 4. Beautiful noty messages / Flash messages for users.
+5. Responsive UI mobile supported.
