@@ -11,6 +11,7 @@ This application comes with lot of basic features every application needs before
 
 The different features include are
 
-1. Login/Signup/Logout
-2. Home page with bootstrap CSS and can be reused or custemized to own application as per requirement.
-3. Noty messages.s
+1. Login/Signup/Logout.
+2. Password encryption.
+3. Home page with bootstrap CSS and can be reused or custumized to own application as per requirement.
+4. Beautiful noty messages / Flash messages for users.
